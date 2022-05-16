@@ -1,2 +1,1 @@
-# CorredorFantasma
-Proyecto19v2
+# C19_LP_AM1
